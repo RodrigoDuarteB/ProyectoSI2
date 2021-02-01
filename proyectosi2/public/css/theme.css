@@ -1,0 +1,57 @@
+.dark-primary-color    { background: #4db6ac !important; }
+.dark-primary-color-icon { color: #ffffff !important; }
+.dark-primary-color-text { color: #ffffff !important; }
+
+.light-primary-color   { background: #82e9de !important; }
+.primary-color-icon { color: #f5f5f5 !important; }
+.primary-color-text { color: #f5f5f5 !important; }
+
+.primary-color { background: #00867d !important; }
+.primary-color-icon { color: #ffffff !important; }
+.primary-color-text { color: #ffffff !important; }
+
+.text-primary-color    { color: #000000 !important; }
+.text-secondary-color { color: #757575 !important; }
+
+.accent-color          { background: #d50000 !important; }
+.accent-color-icon          { color: #ffffff !important; }
+.accent-color-text          { color: #ffffff !important; }
+
+.divider-color         { border-color: #BDBDBD !important; }
+.button-accent-color { background: #d50000 !important; }
+
+body{
+    background-color: #CFD8DC;
+}
+
+.some-padding-left{
+    padding-left: 15px;
+}
+
+.some-padding-top{
+    padding-top: 10px;
+}
+
+.some-padding-bottom{
+    padding-bottom: 10px;
+}
+
+.font-size-medium{
+    font-size: 21px;
+}
+
+td{
+    font-size: 19px;
+}
+
+thead{
+    font-size: 21px;
+}
+
+thead{
+    background-color: #00867d;
+}
+
+li{
+    font-size: 21px;
+}
