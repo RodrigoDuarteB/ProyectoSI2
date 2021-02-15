@@ -14,6 +14,7 @@
                         </div>
                     @endif
                     <p>Hola Mundo!!!</p>
+                    <p>Hola que tal!</p>
                     {{ __('You are logged in!') }}
                 </div>
             </div>
