@@ -22,8 +22,7 @@ Route::get('/suscripcion', function () {
 });
 
 Route::get('/login', function () {
-    return view('login');  
-    //hola mundo
+    return view('login');   
 });
 
 
